@@ -1,0 +1,7 @@
+{
+  "name": "noteafy",
+  "workspaces": [
+    "server",
+    "client"
+  ]
+}

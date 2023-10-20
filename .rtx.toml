@@ -1,0 +1,5 @@
+[env]
+NOTEAFY_DEV = "1"
+
+[tools]
+bun = "latest"
